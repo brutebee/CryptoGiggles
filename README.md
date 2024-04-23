@@ -20,7 +20,9 @@ Ah, developers and their quirky ways! Base64 encoding passwords instead of encry
 ## Requirements: What You'll Need
 
 - Python 3: Because why settle for Python 2 when you can have the latest and greatest?
-- cryptography library: Because real developers know that encryption is no laughing matter (most of the time).
+- cryptography library: (pip install cryptography) Because real developers know that encryption is no laughing matter (most of the time).
+
+
 
 ## Disclaimer: Laughs Guaranteed, Security... Well, Maybe
 
